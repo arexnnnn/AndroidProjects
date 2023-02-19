@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="About">About_page</string>
+    <string name="AboutUs">The user interface or human–machine interface is the part of the machine that handles the human–machine interaction. Membrane switches, rubber keypads and touchscreens are examples of the physical part of the Human Machine Interface which we can see and touch.
+        In complex systems, the human–machine interface is typically computerized. The term human–computer interface refers to this kind of system. In the context of computing, the term typically extends as well to the software dedicated to control the physical elements used for human–computer interaction.
+    </string>
+    <string name="editText">Enter your name</string>
+    <string name="ContactUs">Contact Us</string>
+</resources>
